@@ -18,7 +18,11 @@
 <body>
 
     <main>
+<<<<<<< HEAD
         <h1>Hello World</h1>
+=======
+        <h1>Hello classe 122</h1>
+>>>>>>> e551896675c86280662fceb849fa5adffbde291b
     </main>
 
 </body>
