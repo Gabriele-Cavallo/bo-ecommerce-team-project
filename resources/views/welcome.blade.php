@@ -18,7 +18,7 @@
 <body>
 
     <main>
-        <h1>Hello class 122</h1>
+        <h1>Hello pianeta</h1>
     </main>
 
 </body>
